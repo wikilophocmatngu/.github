@@ -1,7 +1,6 @@
 ## Wiki Lớp Học Mật Ngữ
 
-Trên Github sao?
-Hell nah
+Chào mừng đến với trang GitHub của dự án bách khoa toàn thư phi lợi nhuận được xây dựng cho cộng đồng Lớp Học Mật Ngữ.
 
 <!--
 
