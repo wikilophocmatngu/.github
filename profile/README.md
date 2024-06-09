@@ -13,6 +13,7 @@ Hiện chưa có một phương án cụ thể, nhưng tuy nhiên các cách sau
   * Nickname tài khoản (nhập vào ô số tài khoản): **`SONGNGUNAM`**
   * Chủ tài khoản: **`VU MINH NGUYEN`**
     * Ngân hàng **Tiên Phong** (**`TPBank`**) hoặc ngân hàng **Việt Nam Thịnh Vượng** (**`VPBank`**)
+  * Nội dung chuyển khoản: `Ung ho Wiki Lop Hoc Mat Ngu`
 * Ủng hộ qua:
   * Paypal: https://paypal.me/songngunam
   * Ko-fi: https://ko-fi.com/wikilophocmatngu
