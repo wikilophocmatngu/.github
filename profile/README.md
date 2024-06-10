@@ -20,6 +20,6 @@ Hiện chưa có một phương án cụ thể, nhưng tuy nhiên các cách sau
   * Ví điện tử Momo: https://me.momo.vn/songngu
  
 ## Liên hệ
-* Hỗ trợ: `hotro[at]lophocmatngu.wiki`
+* Hỗ trợ: `admin[at]lophocmatngu.wiki`
 * QTV Song Ngư: `pisces[at]lophocmatngu.wiki`
 * Bản quyền/quyền sử dụng: `banquyen[at]lophocmatngu.wiki`
