@@ -5,7 +5,7 @@ Không như các liên kết khác, đây là hệ thống lưu trữ các kho m
 
 ## Các kho hiện có
 
-* miraheze/mw-config
+* `miraheze/mw-config` - kho cấu hình MediaWiki của dịch vụ lưu trữ dự án
 
 ## Ủng hộ dự án
 Hiện chưa có một phương án cụ thể, nhưng tuy nhiên các cách sau có thể được áp dụng:
@@ -20,16 +20,6 @@ Hiện chưa có một phương án cụ thể, nhưng tuy nhiên các cách sau
   * Ví điện tử Momo: https://me.momo.vn/songngu
  
 ## Liên hệ
-Hỗ trợ: `hotro[at]lophocmatngu.wiki`
-QTV Song Ngư: `pisces[at]lophocmatngu.wiki`
-Bản quyền/quyền sử dụng: `legal[at]lophocmatngu.wiki`
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Hỗ trợ: `hotro[at]lophocmatngu.wiki`
+* QTV Song Ngư: `pisces[at]lophocmatngu.wiki`
+* Bản quyền/quyền sử dụng: `banquyen[at]lophocmatngu.wiki`
