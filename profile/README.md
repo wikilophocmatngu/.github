@@ -6,9 +6,11 @@ Không như các liên kết khác, đây là hệ thống lưu trữ các kho m
 ## Các kho hiện có
 
 * `miraheze/mw-config` - kho cấu hình MediaWiki của dịch vụ lưu trữ dự án
+* "Các kho mã nguồn website ẩn"
 
 ## Ủng hộ dự án
 Hiện chưa có một phương án cụ thể, nhưng tuy nhiên các cách sau có thể được áp dụng:
+* **[Github Sponsor](https://github.com/sponsors/wikilophocmatngu)** (_được khuyến khích_)
 * Chuyển khoản:
   * Nickname tài khoản (nhập vào ô số tài khoản): **`SONGNGUNAM`**
   * Chủ tài khoản: **`VU MINH NGUYEN`**
